@@ -104,7 +104,7 @@ const productData = {
       ['Surface Finish', 'Mirror-polished for smooth yarn passage'],
       ['Hardness', '55-58 HRC'],
       ['Treatment', 'Heat-treated and tempered'],
-      ['Wire Diameter', '0.8mm to 1.5mm'],
+      ['Wire Diameter', '2mm to 6mm'],
       ['Hook Angle', 'Precision-formed angles per OEM spec'],
       ['Coating', 'Anti-wear ceramic coating available'],
       ['Compatibility', 'Universal and brand-specific designs']
